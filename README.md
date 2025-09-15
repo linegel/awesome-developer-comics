@@ -15,6 +15,7 @@
 - [Invisible Bread](http://invisiblebread.com/) - A webcomic that you'll enjoy if you like comics about things and stuff!
 - [OSNews Comics (FocusShift)](http://www.osnews.com/comics) - Comics focused on the news, but also making fun of users and ourselves.
 - [comicss](https://comicss.art/) - A webcomic about CSS. Coded in CSS.
+- [Work Chronicles](https://workchronicles.substack.com/) –-Work Chronicles is a webcomic that showcases the joys and frustrations of the workplace.
 
 ### Subreddits
 
